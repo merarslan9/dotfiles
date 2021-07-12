@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = merarslan9@gmail.com
+	name = Mert Arslan
